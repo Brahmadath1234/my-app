@@ -1,0 +1,18 @@
+1)Install Node.js and npm on your computer.
+
+
+2)Install the React Native command line interface (CLI) by running the following command in a terminal window: npm install -g react-native-cli.
+
+2)Install JDK (Java Development Kit) and Android Studio.
+
+3)Set up an Android emulator or connect an Android device to your computer.
+
+4)Create a new React Native project by running the following command in a terminal window: npx react-native init AwesomeProject.
+
+5)remove app.js 
+
+6)copy paste the code given in link.
+
+5)Run the project by running the following command in a terminal window: npx react-native run-android.
+
+
